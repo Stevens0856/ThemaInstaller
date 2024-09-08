@@ -1,8 +1,10 @@
 # Theme
-JANGAN DIJUAL BELAKAN YE BWANG !!!
-BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
 
-Comand Run Install Thema
+**JANGAN DIJUAL YE BWANG !!!**  
+**BUTUH LICENSE/PW CHAT TELE GUA**  
+[Telegram: t.me/fadhost](https://t.me/fadhost)
 
-bash <(curl https://raw.githubusercontent.com/Stevens0856/ThemaInstaller/install.sh)
+## Command untuk Install Tema
+
+```bash
+bash <(curl https://raw.githubusercontent.com/Stevens0856/ThemaInstaller/main/install.sh)
