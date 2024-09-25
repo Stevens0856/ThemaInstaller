@@ -21,9 +21,9 @@ display_welcome() {
   echo -e "dilarang keras untuk memperjual belikan."
   echo -e ""
   echo -e "𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 :"
-    echo -e ""
+    echo -e "https://bit.ly/NightCoreWhatsApp"
     echo -e "𝗬𝗢𝗨𝗧𝗨𝗕𝗘 :"
-    echo -e "@NightCores"
+    echo -e "@NightCoreMDs"
     echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
     echo -e "@NightCore"
   sleep 4
